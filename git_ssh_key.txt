@@ -1,0 +1,14 @@
+The key fingerprint is:
+SHA256:/1lb7Zohil0wFz4hImyMrlrLt0EZX4ILQEgrB4841cE guilherme-dsneves@outlook.com.br
+The key's randomart image is:
++--[ED25519 256]--+
+|*o.o..           |
+|o*. E=           |
+|=.+ + * o . o    |
+|.o o * + . o o   |
+|    = . S o +    |
+|   o     . + .  .|
+|  o .     . o o o|
+| + ...   o + + * |
+|. o...  . o o +..|
++----[SHA256]-----+
